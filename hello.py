@@ -1,2 +1,1 @@
-for i in range(1, 5+1):
-    print("Hello. world!")
+print("Hello. CAT world!")
